@@ -1,4 +1,4 @@
-aiohttp==3.8.2
+aiohttp
 APScheduler==3.6.3
 async-timeout
 attrs==21.4.0
