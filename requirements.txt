@@ -21,7 +21,7 @@ metaapi-cloud-copyfactory-sdk==6.1.0
 metaapi-cloud-metastats-sdk==3.2.1
 metaapi-cloud-risk-management-sdk==1.2.1
 metaapi-cloud-sdk==20.9.0
-multidict==6.0.2
+multidict
 prettytable==3.3.0
 typing-extensions==3.10.0.0
 python-engineio==3.14.2
