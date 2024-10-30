@@ -1,6 +1,6 @@
 aiohttp==3.8.2
 APScheduler==3.6.3
-async-timeout==3.0.1
+async-timeout
 attrs==21.4.0
 cachetools==4.2.2
 certifi==2022.6.15
